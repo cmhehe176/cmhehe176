@@ -1,0 +1,25 @@
+name: Update GitHub Stats & Languages
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Chạy mỗi 12 giờ
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate GitHub Stats
+        run: |
+          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&token=${{ secrets.PAT }})" > README.md
+      - name: Generate Language Stats
+        run: |
+          echo "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=10&count_private=true&token=${{ secrets.PAT }})" >> README.md
+      - name: Commit & Push
+        run: |
+          git config --global user.name "Cong Minh"
+          git config --global user.email "ndmc.system176@gmail.com"
+          git add .
+          git commit -m "Cron job Update GitHub Profile"
+          git push
