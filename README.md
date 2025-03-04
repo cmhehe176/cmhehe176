@@ -21,7 +21,7 @@ style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0
 
 - **Degree**: Bachelor’s in Electronics and Telecommunications – Computer Engineering
 
-- **Specialization**: Embedded Systems, Computer Networks, Software Engineering, and Telecommunications
+- **Specialization**: Computer Networks, Software Engineering, Embedded Systems and Telecommunications
 
 ## 🔧 Tech Stack
 
