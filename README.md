@@ -17,8 +17,10 @@ style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0
 
 ## 🎓 Education
 
+- **University**: Hanoi University of Science and Technology (`HUST`) <img src="images/image.png" alt="Profile Views" width="15" height="20">
+
 - **Degree**: Bachelor’s in Electronics and Telecommunications – Computer Engineering
-- **University**: Hanoi University of Science and Technology (HUST)
+
 - **Specialization**: Embedded Systems, Computer Networks, Software Engineering, and Telecommunications
 
 ## 🔧 Tech Stack
