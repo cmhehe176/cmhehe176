@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# 👋 Hello! I'm [Your Name]  
+# 👋 Hello! I'm cmhehe176
 
-🚀 Full-stack Developer | 🎨 UI/UX Designer | 📚 Tech Enthusiast  
+🚀 Software Engineer 📡 Electronics & Telecommunications | 🖥 System & Network Developer | 📚 Passionate about building scalable systems and networks  
 
-## 📌 About Me  
-🔹 Passionate about building web applications and open-source projects.  
-🔹 Experienced in **Java, JavaScript, Python, React, Spring Boot**.  
-🔹 Love to explore **AI, Cloud Computing, and DevOps**.  
+🎓 **Education**  
+- **Degree**: Bachelor’s in Electronics and Telecommunications – Computer Engineering  
+- **University**: Hanoi University of Science and Technology (HUST)  
+- **Specialization**: Embedded Systems, Computer Networks, Software Engineering, and Telecommunications  
 
 ## 🔧 Tech Stack  
 - 💻 Languages: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
