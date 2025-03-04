@@ -2,12 +2,12 @@
 
 # 👋 Hello! I'm cmhehe176
 
-🚀 Software Engineer
-📡 Electronics & Telecommunications
-🖥 System & Network Developer
-📚 Passionate about building scalable systems and networks
+- 🚀 Software Engineer
+- 📡 Electronics & Telecommunications
+- 🖥 System & Network Developer
+- 📚 Passionate about building scalable systems and networks
 
-🎓 **Education**
+## 🎓 Education
 
 - **Degree**: Bachelor’s in Electronics and Telecommunications – Computer Engineering
 - **University**: Hanoi University of Science and Technology (HUST)
@@ -23,8 +23,6 @@
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-
-<!-- GitHub Actions sẽ tự động cập nhật những dòng này -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmhehe176&show_icons=true&theme=radical&count_private=true)
 
