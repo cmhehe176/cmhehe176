@@ -7,9 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=cmhehe176&style=flat-square&color=blue" alt="Profile Views"
 style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0 0 20;">
 
-<!-- <img src="https://streak-stats.demolab.com/?user=cmhehe176" alt="Profile Views"
-style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0 0 20;"> -->
-
 - 🚀 Software Engineer
 - 📡 Electronics & Telecommunications
 - 🖥 System & Network Developer
@@ -49,3 +46,6 @@ style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0
 <!-- ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)   -->
+
+<!-- <img src="https://streak-stats.demolab.com/?user=cmhehe176" alt="Profile Views"
+style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0 0 20;"> -->
