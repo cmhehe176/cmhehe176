@@ -1,8 +1,6 @@
-## Hi there 👋
+## 👋 Hello world !!
 
 #### _👌 From an ordinary person striving to understand how life works and the beauty it holds._
-
-# 👋 Hello world !!
 
 <img src="https://komarev.com/ghpvc/?username=cmhehe176&style=flat-square&color=blue" alt="Profile Views"
 style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0 0 20;">
