@@ -3,7 +3,7 @@
 #### _👌 From an ordinary person striving to understand how life works and the beauty it holds._
 
 <img src="https://komarev.com/ghpvc/?username=cmhehe176&style=flat-square&color=blue" alt="Profile Views"
-style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin: 0 0 0 20;">
+style="border-radius: 8px; background-color: #f4f4f4; padding: 5px;  margin-left: 20px;">
 
 - 🚀 Software Engineer
 - 📡 Electronics & Telecommunications
